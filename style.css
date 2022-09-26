@@ -6,6 +6,7 @@
 
 body
 {
+     background-image: url("thumb-1920-958075.jpg");
     font-family: monospace;
 }
 .row
@@ -67,7 +68,7 @@ h1
 }
 header
 {
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(thumb-1920-958075.jpg);
+    
     height: 100vh;
     background-size: cover;
     background-position: center;
