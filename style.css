@@ -8,6 +8,7 @@ body
 {
    background-image: url("thumb-1920-958075.jpg");
      background-repeat: no-repeat;
+        background-attachment: fixed;
      background-size: cover;
      height: 100vh;
     font-family: monospace;
