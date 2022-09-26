@@ -6,7 +6,10 @@
 
 body
 {
-     background-image: url("thumb-1920-958075.jpg");
+   background-image: url("thumb-1920-958075.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100vh;
     font-family: monospace;
 }
 .row
